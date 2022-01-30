@@ -1,0 +1,199 @@
+body {
+  background-color: #f5f7fa;
+  font-family: "Montserrat", sans-serif;
+}
+.main_conteiner {
+  display: flex;
+  flex-direction: row-reverse;
+  width: auto;
+  background-color: #f5f7fa;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/*  main content sections*/
+.main_content_section {
+  padding: 100px 90px 90px 100px;
+}
+.main_content_titel {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: black;
+  margin-bottom: 10px;
+}
+/* about_me_section */
+.about_me_section {
+  margin-bottom: 40px;
+}
+
+.about_me_profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+  margin-bottom: 20px;
+}
+.about_me_name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: black;
+  margin-bottom: 25px;
+}
+.about_me_description {
+  width: 400px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+/* my_projects_section */
+
+.my_projects_section {
+  margin-bottom: 50px;
+}
+.my_projects_list {
+  padding: 0 0 0 20px;
+}
+.my_projects_item {
+  color: black;
+  font-weight: bold;
+}
+.my_projects_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.my_projects_link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my_projects_bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: black;
+}
+/* my_work_exprience */
+.my_work_exprience_section {
+}
+.my_work_exprience_company {
+  color: #fb6d3a;
+}
+my_work_exprience_position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.my_work_exprience_time {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 10px;
+}
+.my_work_exprience_devider {
+  color: black;
+}
+.my_work_exprience_duties {
+  padding: 0 0 0 18px;
+}
+.my_work_exprience_duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.company_3,
+.company_2,
+.company_1 {
+  margin-bottom: 15px;
+}
+.company_1 {
+  margin-bottom: 40px;
+}
+/* Education */
+.university {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.Education_Management {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 14px;
+  color: black;
+  margin-bottom: 12px;
+}
+/* Sidebar_sections */
+
+.Sidebar_sections {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+.Contacts_section,
+.Tech_Skills_sectuon {
+  margin: 50px 0 0 40px;
+}
+.Soft_Skills_sectuon {
+  margin: 50px 0 370px 40px;
+}
+.sidebar_title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #f5f7fa;
+  margin-bottom: 10px;
+}
+/* Contacts_section */
+.Contacts_section_tipe {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #f5f7fa;
+  margin-right: 7px;
+}
+.Contacts_section_link {
+  color: #565f6b;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+/* Tech_Soft_skills */
+.Tech_Soft_skills_list {
+  padding-left: 17px;
+}
+.Tech_Soft_skills_item {
+  color: #fb6d3a;
+}
+.Tech_Soft_skills_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #f5f7fa;
+}
+/* margin - отступы внешние */
+/* padding - отступы внутри контейнера */
