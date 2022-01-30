@@ -1,6 +1,6 @@
 body {
   background-color: #f5f7fa;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto Mono", monospace;
 }
 .main_conteiner {
   display: flex;
